@@ -1,0 +1,10 @@
+.align-right {
+    text-align: right;
+}
+.wrapp-input {
+    padding: 1rem 0;
+}
+.bottom {
+    display: flex;
+    align-items: flex-end;
+}
